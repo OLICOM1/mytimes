@@ -110,6 +110,7 @@ header nav {
 
 #bs {
   border-style: none;
+
 }
 
 /* First News Column */
@@ -133,10 +134,13 @@ header nav {
   display: flex;
   width: 630px;
   height: 302px;
+
 }
 
 .mother span {
   font-size: 40px;
+  text-align: center;
+  align-self: center;
 }
 
 .earth {
@@ -147,7 +151,7 @@ header nav {
 
 .earth span {
   text-align: center;
-
+  align-self: center;
 }
 
 .cameras {
@@ -158,6 +162,7 @@ header nav {
 
 .cameras span {
   text-align: center;
+  align-self: center;
 }
 
 .stories {
@@ -189,6 +194,7 @@ header nav {
 
 .cats span {
   text-align: center;
+  align-self: center;
 }
 
 /* Third News Column */
